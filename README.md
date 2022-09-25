@@ -5,4 +5,5 @@ Tenho registrado o meu progresso, á  pouco comecei a usar o gitHub, comecei a e
 2. Funções [https://colab.research.google.com/drive/1S4HPF0vNBnNAq8D4xAGQ2UF1r0lRPp4o?usp=sharing]
 3. Função lambda [https://colab.research.google.com/drive/1iG1CxOpKE9lFEX-LGxei7ISBe2O8gWT4?usp=sharing]
 4. Limpeza de Dados  [https://colab.research.google.com/drive/15X9w3kldbjEbG6Th8t9tJqwKf9ydsFKt?usp=sharing]
-5. 
+5. Histograma [https://colab.research.google.com/drive/1SLNwKiMcUbQgZmGPsC4FArNkJhkXRVuv?usp=sharing]
+
