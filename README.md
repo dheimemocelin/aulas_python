@@ -1,5 +1,5 @@
 # MEU PROGRESSO EM CIÊNCIA DE DADOS
-Tenho registrado o meu progresso, á  pouco comecei a usar o gitHub, comecei a estudar ciência de dados em Maio/2022.
+Pouco tempo comecei a usar o gitHub, em Maio/2022 comecei a estudar ciência de dados e esses são alguns colabs.
 
 1. Meu primeiro Notebook [https://colab.research.google.com/drive/1KQdw27p7CCfhPma5sAaMncdzJ7tNJrd2?usp=sharing]
 2. Funções [https://colab.research.google.com/drive/1S4HPF0vNBnNAq8D4xAGQ2UF1r0lRPp4o?usp=sharing]
