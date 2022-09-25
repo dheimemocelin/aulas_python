@@ -1,2 +1,1 @@
-# aulas_python
-Meu começo em ciência de dados 
+Alguns conteudos  de  python 
